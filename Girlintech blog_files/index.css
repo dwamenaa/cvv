@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  header {
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+    background-size: cover;
+  }
+  
+  .profile-photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .featured-posts article {
+    margin-bottom: 20px;
+  }
+  
+  .categories ul {
+    list-style-type: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px 0;
+  }
+ h1{
+    color: #9B3922;
+ } 
+ h2{
+    color: #9B3922;
+ }
+ h3,em,u{
+    color: whitesmoke;
+ }
+ p{
+    color: whitesmoke;
+ }
+ ul{
+    color: whitesmoke;
+ }
+ hr{
+    border-top-style: dotted;
+ }
+  img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid black
+ }
